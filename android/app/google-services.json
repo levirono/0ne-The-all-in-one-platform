@@ -1,0 +1,29 @@
+ {
+  "project_info": {
+    "project_number": "150143957390",
+    "project_id": "onel-ba9bf",
+    "storage_bucket": "onel-ba9bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150143957390:android:9644c97359427845f34cdf",
+        "android_client_info": {
+          "package_name": "com.example.one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaZv3xdNfHRsTxQ63AXyUHLY-WzWDHv7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
